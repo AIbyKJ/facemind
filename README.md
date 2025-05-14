@@ -21,7 +21,6 @@ docker pull ghcr.io/4211421036/mental_health_app:latest
 ```
 
 ## Author by
-1. Ana Maulida
-2. GALIH RIDHO UTOMO
+1. Hiroshi Ashikaga
 
 Delegation for competition paper
