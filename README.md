@@ -20,7 +20,4 @@ You can install missing dependencies by running the following command:
 docker pull ghcr.io/4211421036/mental_health_app:latest
 ```
 
-## Author by
-1. Hiroshi Ashikaga
-
 Delegation for competition paper
